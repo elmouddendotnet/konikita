@@ -1,0 +1,67 @@
+{
+   "adsController":{
+      "isAd" : "ironsource",
+      "privacyUrl" : "https://cinevisionapp.netlify.com/privacy",
+      "fan_banner" : "",
+      "interOK" :true,
+      "backgroundOK" :true,
+      "max_inter" : "",
+      "max_banner" :"",
+      "ironKey" : "",
+      "rootFeature" : true,
+      "osFeature" : true,
+      // Close con
+      "mClose" : true
+   },
+   "NextContent" :[
+      {
+      "textcontent" : "With CineVision you will have access to more than 10,000 HD Movies and Series for FREE!"
+      },
+      {
+      "textcontent" : "You can easily download a stream that you like for offline watch"
+      },
+      {
+      "textcontent" : "You can enjoy an uninterrupted flow of streaming, as it is FREE!"
+      },
+      {
+      "textcontent" : "Besides Movies and Series, you can also watch Live Sport Events"
+      },
+      {
+      "textcontent" : "Access streams with High Quality synced Subtitles in Multiple languages"
+      },
+      {
+      "textcontent" : "To add a movie to your favorites list, click SAVE under the stream player"
+      },
+      {
+      "textcontent" : "WatchTogether feature to watch with your friends at the same time (BETA)"
+      },
+      {
+      "textcontent" : "Fast and various watching servers that you can switch between whenever you want"
+      },
+      {
+      "textcontent" : "User-friendly interface to make sure you enjoy your experience"
+      },
+      {
+      "textcontent" : "Ability to use a local-external subtitle (must be .srt extension file)"
+      },
+      {
+      "textcontent" : "Stop paying heavy subscriptions and enjoy your favorite Movies for FREE!"
+      },
+      {
+      "textcontent" : "New Films & Series everyday with the updated content 24/7"
+      },
+      {
+      "textcontent" : "To get notified of new episodes, activate the notification option from settings"
+      },
+      {
+      "textcontent" : "With screen-cast feature you can easily cast the stream to your SMART TV"
+      },
+      {
+      "textcontent" : "New podcasts every week in different topics, with the listen mode"
+      },
+      {
+      "textcontent" : "Family-control option to choose the types of content you can watch"
+      }
+   
+   ]
+}
