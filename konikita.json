@@ -8,8 +8,8 @@
       "max_inter" : "",
       "max_banner" :"",
       "ironKey" : "",
-      "rootFeature" : true,
-      "osFeature" : true,
+      "rootFeature" : false,
+      "osFeature" : false,
       // Close con
       "mClose" : true
    },
