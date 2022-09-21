@@ -8,10 +8,10 @@
       "max_inter" : "",
       "max_banner" :"",
       "ironKey" : "",
-      "rootFeature" : false,
+      "rootFeature" : true,
       "osFeature" : false,
       // Close con
-      "mClose" : true
+      "mClose" : false
    },
    "NextContent" :[
       {
