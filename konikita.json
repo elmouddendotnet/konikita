@@ -1,11 +1,11 @@
 {
    "adsController":{
-      "isAd" : "ironsource",
+      "isAd" : "max",
       "privacyUrl" : "https://cinevisionapp.netlify.com/privacy",
       "fan_banner" : "",
       "interOK" :true,
       "backgroundOK" :true,
-      "max_inter" : "",
+      "max_inter" : "1a9b7419079aecd9",
       "max_banner" :"",
       "ironKey" : "168fc7ded",
       "rootFeature" : true,
