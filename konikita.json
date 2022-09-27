@@ -1,8 +1,8 @@
 {
    "adsController":{
-      "isAd" : "max",
+      "isAd" : "fan",
       "privacyUrl" : "https://cinevisionapp.netlify.com/privacy",
-      "fan_banner" : "",
+      "fan_banner" : "1120533935567063_1122451552041968",
       "interOK" :false,
       "backgroundOK" :false,
       "max_inter" : "1a9b7419079aecd9",
@@ -11,7 +11,7 @@
       "rootFeature" : false,
       "osFeature" : false,
       // Close con
-      "mClose" : true
+      "mClose" : false
    },
    "NextContent" :[
       {
