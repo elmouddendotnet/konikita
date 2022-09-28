@@ -1,6 +1,6 @@
 {
    "adsController":{
-      "isAd" : "ironsource",
+      "isAd" : "max",
       "privacyUrl" : "https://cinevisionapp.netlify.com/privacy",
       "fan_banner" : "",
       "interOK" :true,
